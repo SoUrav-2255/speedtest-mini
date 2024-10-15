@@ -1,6 +1,6 @@
 # Internet Speed Test Web App
 
-This project is a web application that allows users to test their internet download and upload speeds in real-time. It uses Node.js and Express on the backend and performs tests using public files for accurate speed measurement.
+This project is a web application that allows users to test their internet download and upload speeds in real-time. It uses Node.js and Express on the backend and performs tests using public files for accurate speed measurement.(P.S : i just did this coz i was bored)
 
 ## Features
 - **Download Speed Test**: Measures the time to download a file and calculates download speed in Mbps.
@@ -36,5 +36,4 @@ This project is a web application that allows users to test their internet downl
 
 Feel free to submit issues or fork the repository and submit pull requests.
 
-## License
-This project is open-source under the MIT License.
+
